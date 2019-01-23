@@ -6,3 +6,5 @@ def roll
   # code goes here
   roller = rand(1..6)
 end
+
+a = [1,2,3,4,5,6]
